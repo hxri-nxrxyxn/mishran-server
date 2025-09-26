@@ -66,4 +66,20 @@ wss.on('connection', (socket, req) => {
             } 
             
         });
-
+    function startAllRecording(){
+        console.log('Command received: Start all recordings');
+        const recordingsDir = path.join(__dirname, 'recordings');
+        if (!fs.existsSync(recordingsDir)){
+            fs.mkdirSync(recordingsDir);
+        }   
+        clients.forEach((client, clientId) => {
+            if(!client.isRecording){
+                const filename = '${clientId}_${Date.now()}.webm';
+                client.filestream = fs.createWriteStream(path.join(recordingsDir, filename));
+                console.log(`New recording file created: ${filename}`);
+                client.isRecording = true;
+                client.socket.send(JSON.stringify({command: 'start_recording'}));
+    }});
+        sendHostUpdate();
+    }
+    
