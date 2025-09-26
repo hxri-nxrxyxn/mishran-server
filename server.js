@@ -90,3 +90,17 @@ wss.on('connection', (socket, req) => {
                 client.socket.send(JSON.stringify({command: 'stop_recording'}));
      } });
     }
+    function sendHostUpdate(){
+        if(!hostSocket) return
+            const clientList = Array.from(clients.keys()).map(clientId => ({
+                clientId,
+                isRecording: clients.get(clientId).isRecording
+            }));
+        const isRecordingAll = clientList.length>0 && clientList.every(client => client.isRecording);
+        hostSocket.send(JSON.stringify({
+            type : 'state_update',
+            isRecordingAll,
+            clients:clientList
+        }));
+    }
+    
