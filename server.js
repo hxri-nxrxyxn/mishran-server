@@ -82,4 +82,11 @@ wss.on('connection', (socket, req) => {
     }});
         sendHostUpdate();
     }
-    
+
+    function stopAllRecording(){
+        console.log('Command received: Stop all recordings');
+        clients.forEach((client, clientId) => {
+            if(client.isRecording){
+                client.socket.send(JSON.stringify({command: 'stop_recording'}));
+     } });
+    }
