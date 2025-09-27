@@ -1,0 +1,497 @@
+[
+    {
+        "camera": "cam_0",
+        "start": 0.26,
+        "end": 3.94
+    },
+    {
+        "camera": "cam_1",
+        "start": 3.94,
+        "end": 6.1
+    },
+    {
+        "camera": "cam_2",
+        "start": 6.1,
+        "end": 9.91
+    },
+    {
+        "camera": "cam_0",
+        "start": 9.91,
+        "end": 13.15
+    },
+    {
+        "camera": "cam_1",
+        "start": 13.15,
+        "end": 14.26
+    },
+    {
+        "camera": "cam_2",
+        "start": 14.26,
+        "end": 18.6
+    },
+    {
+        "camera": "cam_0",
+        "start": 18.6,
+        "end": 20.74
+    },
+    {
+        "camera": "cam_1",
+        "start": 20.74,
+        "end": 21.8
+    },
+    {
+        "camera": "cam_2",
+        "start": 21.8,
+        "end": 23.37
+    },
+    {
+        "camera": "cam_0",
+        "start": 23.37,
+        "end": 27.61
+    },
+    {
+        "camera": "cam_1",
+        "start": 27.61,
+        "end": 31.32
+    },
+    {
+        "camera": "cam_2",
+        "start": 31.32,
+        "end": 34.26
+    },
+    {
+        "camera": "cam_0",
+        "start": 34.26,
+        "end": 36.92
+    },
+    {
+        "camera": "cam_1",
+        "start": 36.92,
+        "end": 38.53
+    },
+    {
+        "camera": "cam_2",
+        "start": 38.53,
+        "end": 40.6
+    },
+    {
+        "camera": "cam_0",
+        "start": 40.6,
+        "end": 42.75
+    },
+    {
+        "camera": "cam_1",
+        "start": 42.75,
+        "end": 45.41
+    },
+    {
+        "camera": "cam_2",
+        "start": 45.41,
+        "end": 47.0
+    },
+    {
+        "camera": "cam_0",
+        "start": 47.0,
+        "end": 48.59
+    },
+    {
+        "camera": "cam_1",
+        "start": 48.59,
+        "end": 51.76
+    },
+    {
+        "camera": "cam_2",
+        "start": 51.76,
+        "end": 52.7
+    },
+    {
+        "camera": "cam_0",
+        "start": 52.7,
+        "end": 56.02
+    },
+    {
+        "camera": "cam_1",
+        "start": 56.02,
+        "end": 59.21
+    },
+    {
+        "camera": "cam_2",
+        "start": 59.21,
+        "end": 62.15
+    },
+    {
+        "camera": "cam_0",
+        "start": 62.15,
+        "end": 65.86
+    },
+    {
+        "camera": "cam_1",
+        "start": 65.86,
+        "end": 67.96
+    },
+    {
+        "camera": "cam_2",
+        "start": 67.96,
+        "end": 70.14
+    },
+    {
+        "camera": "cam_0",
+        "start": 70.14,
+        "end": 74.06
+    },
+    {
+        "camera": "cam_1",
+        "start": 74.06,
+        "end": 78.59
+    },
+    {
+        "camera": "cam_2",
+        "start": 78.59,
+        "end": 81.25
+    },
+    {
+        "camera": "cam_0",
+        "start": 81.25,
+        "end": 84.97
+    },
+    {
+        "camera": "cam_1",
+        "start": 84.97,
+        "end": 88.15
+    },
+    {
+        "camera": "cam_2",
+        "start": 88.15,
+        "end": 89.73
+    },
+    {
+        "camera": "cam_0",
+        "start": 89.73,
+        "end": 91.31
+    },
+    {
+        "camera": "cam_1",
+        "start": 91.31,
+        "end": 93.45
+    },
+    {
+        "camera": "cam_2",
+        "start": 93.45,
+        "end": 96.9
+    },
+    {
+        "camera": "cam_0",
+        "start": 96.9,
+        "end": 99.01
+    },
+    {
+        "camera": "cam_1",
+        "start": 99.01,
+        "end": 100.08
+    },
+    {
+        "camera": "cam_2",
+        "start": 100.08,
+        "end": 103.27
+    },
+    {
+        "camera": "cam_0",
+        "start": 103.27,
+        "end": 105.41
+    },
+    {
+        "camera": "cam_1",
+        "start": 105.41,
+        "end": 106.46
+    },
+    {
+        "camera": "cam_2",
+        "start": 106.46,
+        "end": 108.04
+    },
+    {
+        "camera": "cam_0",
+        "start": 108.04,
+        "end": 110.19
+    },
+    {
+        "camera": "cam_1",
+        "start": 110.19,
+        "end": 113.63
+    },
+    {
+        "camera": "cam_2",
+        "start": 113.63,
+        "end": 116.8
+    },
+    {
+        "camera": "cam_0",
+        "start": 116.8,
+        "end": 117.89
+    },
+    {
+        "camera": "cam_1",
+        "start": 117.89,
+        "end": 118.93
+    },
+    {
+        "camera": "cam_2",
+        "start": 118.93,
+        "end": 121.61
+    },
+    {
+        "camera": "cam_0",
+        "start": 121.61,
+        "end": 125.84
+    },
+    {
+        "camera": "cam_1",
+        "start": 125.84,
+        "end": 127.98
+    },
+    {
+        "camera": "cam_2",
+        "start": 127.98,
+        "end": 130.61
+    },
+    {
+        "camera": "cam_0",
+        "start": 130.61,
+        "end": 132.74
+    },
+    {
+        "camera": "cam_1",
+        "start": 132.74,
+        "end": 134.34
+    },
+    {
+        "camera": "cam_2",
+        "start": 134.34,
+        "end": 137.52
+    },
+    {
+        "camera": "cam_0",
+        "start": 137.52,
+        "end": 141.24
+    },
+    {
+        "camera": "cam_1",
+        "start": 141.24,
+        "end": 145.22
+    },
+    {
+        "camera": "cam_2",
+        "start": 145.22,
+        "end": 146.27
+    },
+    {
+        "camera": "cam_0",
+        "start": 146.27,
+        "end": 149.47
+    },
+    {
+        "camera": "cam_1",
+        "start": 149.47,
+        "end": 152.66
+    },
+    {
+        "camera": "cam_2",
+        "start": 152.66,
+        "end": 153.96
+    },
+    {
+        "camera": "cam_0",
+        "start": 153.96,
+        "end": 156.62
+    },
+    {
+        "camera": "cam_1",
+        "start": 156.62,
+        "end": 157.69
+    },
+    {
+        "camera": "cam_2",
+        "start": 157.69,
+        "end": 160.36
+    },
+    {
+        "camera": "cam_0",
+        "start": 160.36,
+        "end": 162.48
+    },
+    {
+        "camera": "cam_1",
+        "start": 162.48,
+        "end": 164.08
+    },
+    {
+        "camera": "cam_2",
+        "start": 164.08,
+        "end": 167.78
+    },
+    {
+        "camera": "cam_0",
+        "start": 167.78,
+        "end": 170.98
+    },
+    {
+        "camera": "cam_1",
+        "start": 170.98,
+        "end": 173.09
+    },
+    {
+        "camera": "cam_2",
+        "start": 173.09,
+        "end": 176.3
+    },
+    {
+        "camera": "cam_0",
+        "start": 176.3,
+        "end": 178.92
+    },
+    {
+        "camera": "cam_1",
+        "start": 178.92,
+        "end": 180.0
+    },
+    {
+        "camera": "cam_2",
+        "start": 180.0,
+        "end": 183.19
+    },
+    {
+        "camera": "cam_0",
+        "start": 183.19,
+        "end": 185.84
+    },
+    {
+        "camera": "cam_1",
+        "start": 185.84,
+        "end": 189.05
+    },
+    {
+        "camera": "cam_2",
+        "start": 189.05,
+        "end": 193.16
+    },
+    {
+        "camera": "cam_0",
+        "start": 193.16,
+        "end": 195.69
+    },
+    {
+        "camera": "cam_1",
+        "start": 195.69,
+        "end": 198.88
+    },
+    {
+        "camera": "cam_2",
+        "start": 198.88,
+        "end": 203.12
+    },
+    {
+        "camera": "cam_0",
+        "start": 203.12,
+        "end": 205.23
+    },
+    {
+        "camera": "cam_1",
+        "start": 205.23,
+        "end": 209.48
+    },
+    {
+        "camera": "cam_2",
+        "start": 209.48,
+        "end": 211.59
+    },
+    {
+        "camera": "cam_0",
+        "start": 211.59,
+        "end": 212.66
+    },
+    {
+        "camera": "cam_1",
+        "start": 212.66,
+        "end": 215.56
+    },
+    {
+        "camera": "cam_2",
+        "start": 215.56,
+        "end": 217.18
+    },
+    {
+        "camera": "cam_0",
+        "start": 217.18,
+        "end": 218.22
+    },
+    {
+        "camera": "cam_1",
+        "start": 218.22,
+        "end": 221.94
+    },
+    {
+        "camera": "cam_2",
+        "start": 221.94,
+        "end": 224.61
+    },
+    {
+        "camera": "cam_0",
+        "start": 224.61,
+        "end": 226.19
+    },
+    {
+        "camera": "cam_1",
+        "start": 226.19,
+        "end": 228.84
+    },
+    {
+        "camera": "cam_2",
+        "start": 228.84,
+        "end": 230.19
+    },
+    {
+        "camera": "cam_0",
+        "start": 230.19,
+        "end": 231.22
+    },
+    {
+        "camera": "cam_1",
+        "start": 231.22,
+        "end": 234.97
+    },
+    {
+        "camera": "cam_2",
+        "start": 234.97,
+        "end": 236.03
+    },
+    {
+        "camera": "cam_0",
+        "start": 236.03,
+        "end": 239.7
+    },
+    {
+        "camera": "cam_1",
+        "start": 239.7,
+        "end": 242.93
+    },
+    {
+        "camera": "cam_2",
+        "start": 242.93,
+        "end": 243.97
+    },
+    {
+        "camera": "cam_0",
+        "start": 243.97,
+        "end": 247.7
+    },
+    {
+        "camera": "cam_1",
+        "start": 247.7,
+        "end": 249.29
+    },
+    {
+        "camera": "cam_2",
+        "start": 249.29,
+        "end": 251.33
+    }
+]

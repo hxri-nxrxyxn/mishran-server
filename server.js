@@ -29,7 +29,7 @@ wss.on('connection', (socket, req) => {
         });
     } else {
         console.log(`Client ${clientId} connected`);
-        clients.set(clientId, {socket, isRecording: false, filesream: null});
+        clients.set(clientId, {socket, isRecording: false, filestream: null});
         sendHostUpdate();
 
         socket.on('message', (message) => {
@@ -41,16 +41,16 @@ wss.on('connection', (socket, req) => {
                 };
                 client.isRecording = false;
 
-                if(client.filesream) {
-                    client.filesream.end();
-                    client.filesream = null;
+                if(client.filestream) {
+                    client.filestream.end();
+                    client.filestream = null;
                     console.log(`Recording file saved for client ${clientId}`);
                 }
                 sendHostUpdate();
                 return;
             } catch (error) {
-                if(client?.isRecording && client.filesream) {
-                    client.filesream.write(message);
+                if(client?.isRecording && client.filestream) {
+                    client.filestream.write(message);
                 }
             }
         });
